@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+  padding: 0;
+
+  text-align: center;
+}
+.display{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: rgba(3, 245, 124, 0.838);
+  font-size: 2rem;
+}
+.button{
+  margin: 20px;
+  border: none;
+  box-shadow: 2px 2px 12px rgb(3, 216, 3);
+  background-color: rgb(233, 9, 110);
+  height: 35px;
+  width: 85px;
+}
